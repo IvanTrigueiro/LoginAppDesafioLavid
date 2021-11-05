@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DesafilPerfil1</string>
+    <string name="hint_username">Nome</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="button_login">Entrar</string>
+    <string name="button_signup">Criar conta</string>
+    <string name="button_goToSignup">Não possui conta?</string>
+    <string name="button_goToLogin">Voltar</string>
+    <string name="button_goToForgotPassword">Esqueceu a senha?</string>
+    <string name="button_forgotPasswordSendEmail">Enviar</string>
+    <string name="text_signup">Não possui conta?</string>
+    <string name="text_login">Já possui conta?</string>
+    <string name="text_logout">Sair</string>
+</resources>
